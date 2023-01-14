@@ -1,0 +1,22 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "Diferent slides for diferent presentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blaxter-x/Presentations.git"
+  },
+  "author": "andresguc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blaxter-x/Presentations/issues"
+  },
+  "homepage": "https://github.com/Blaxter-x/Presentations#readme",
+  "dependencies": {
+    "reveal.js": "^4.4.0"
+  }
+}
